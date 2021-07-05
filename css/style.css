@@ -1,3 +1,8 @@
+#logo img{
+    margin-top: 50px;
+    margin-left: 165px;
+}
+
 #section-1{
     display: flex;
 }
@@ -10,7 +15,7 @@
     font-size: 60px;
     font-weight: 700;
     margin-left: 165px;
-    padding-top: 200px;
+    padding-top: 150px;
     color: #575757;
 }
 .h1-color{
@@ -39,7 +44,7 @@
     box-shadow: rgba(83, 87, 92, 0.2) 0px 8px 24px;
 }
 .section-1-image img{
-    margin-top: 80px;
+    margin-top: 30px;
     margin-bottom: 100px;
 }
 

@@ -1,0 +1,44 @@
+#section-1{
+    display: flex;
+}
+.section-1-text{
+    width: 50%;
+}
+
+.section-1-text h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    margin-left: 165px;
+    padding-top: 200px;
+    color: #575757;
+}
+.h1-color{
+    color: #6b63ff;
+}
+.section-1-text p{
+    width: 600px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 165px;
+    color: #828282;
+    padding-bottom: 80px;
+}
+
+.section-1-text a{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: 165px;
+    color: white;
+    padding: 20px 40px;
+    background: linear-gradient(101deg, rgb(158, 153, 255) 0%, rgb(70, 60, 255) 100%);
+    border-radius: 30px;
+    box-shadow: rgba(83, 87, 92, 0.2) 0px 8px 24px;
+}
+.section-1-image img{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
